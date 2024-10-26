@@ -1,0 +1,8 @@
+<%@ taglib prefix="sql" uri="http://java.sun.com/jsp/jstl/sql" %>
+
+<sql:setDataSource var="DataSource" 
+    driver="com.mysql.jdbc.Driver" 
+    url="sql10.freemysqlhosting.net/sql10740823" 
+    user="sql10740823root" 
+    password="1gB3gRRN2e" />
+ 
